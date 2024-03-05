@@ -1,0 +1,7 @@
+package factory_design_pattern;
+
+public class FactoryDesignPatternTest {
+	public static void main(String[] args) {
+		Employee employee = 
+	}
+}

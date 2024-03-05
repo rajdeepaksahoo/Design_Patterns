@@ -1,0 +1,7 @@
+package singleton_design_pattern;
+
+public class EmployeeDesignPattern {
+    public Employee getEmployee(String type){
+        if(type.trim().equalsIgnoreCase(""))
+    }
+}
